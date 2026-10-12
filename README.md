@@ -105,6 +105,9 @@ Drew the insights below and packaged the workbook as a `.twbx` so it can be open
 Tableau calculated fields · KPI design · Dashboard layout · Attrition analysis · Business storytelling
 
 ---
+## Architecture Diagram
+![HR Analytics Architecture](diagram%20(5).png)
+
 
 **Author:** Astha Kumari Jha
 **GitHub:** [github.com/Asthajha4275](https://github.com/Asthajha4275)
